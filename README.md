@@ -1,2 +1,2 @@
 # terraform-training
-Terraform training using online tutorials
+Terraform training using online tutorial
